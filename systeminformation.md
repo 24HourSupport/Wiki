@@ -44,7 +44,7 @@ The file you will provide contains no personal information about you. It will pr
 1. Download the [24HS-Automator](https://github.com/CommandMC/24HS-Automator/releases/latest)
 2. Run it and accept the UAC prompt.
 3. Select the 6th option (`(6) Generate system info`) by pressing "6" on your keyboard.
-4. Either press Ctrl + V **in the channel you were asked for the file** or manually attach it using the ⊕ button to the left of the message input box
+4. Either press Ctrl + V or manually attach the file (it's on your Desktop and will be named "DanielIsCool.txt") **in the channel you were asked for the file** using the ⊕ button to the left of the message input box
 
 ---
 ### Option 2: The manual way
