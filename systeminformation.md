@@ -77,7 +77,7 @@ The file you will provide contains no personal information about you. It will pr
 
 ![](https://i.imgur.com/7r2Wd3J.png)
 
-8. Send the file in channel. Or if you are posting this on the subreddit [paste it in pastebin then send us the link](https://pastebin.com/). ANSWER THE QUESTIONS BELOW ALONG WITH SENDING THE FILE! READ THIS PART YES!! ***READ THIS WITH YOUR EYES!!!!*** THERE ARE **QUESTIONS BELOW THIS PHOTO**!!!! READ THEM AND ANSWER THEM, THEN SEND US THE ANSWERS!!!
+8. Send the file in channel. Or if you are posting this on the subreddit [paste it in pastebin then send us the link](https://pastebin.com/). ANSWER THE QUESTIONS BELOW ALONG WITH SENDING THE FILE! READ THIS PART YES!! ***READ THIS WITH YOUR EYES!!!!*** THERE ARE **QUESTIONS AT THE START OF THIS PAGE**!!!! READ THEM AND ANSWER THEM, THEN SEND US THE ANSWERS!!!
 
 ![](https://i.imgur.com/Xl4WnCc.png)
 
