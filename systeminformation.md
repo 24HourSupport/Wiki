@@ -43,6 +43,9 @@ The file you will provide contains no personal information about you. It will pr
 
 ## Providing a System Information report
 
+[//]: # (This hurts to write)
+Note: These are **options**. You do either Option 1, or Option 2, **not** both.
+
 ### Option 1: The automated way
 
 1. Download the [24HS-Automator](https://github.com/CommandMC/24HS-Automator/releases/latest)
