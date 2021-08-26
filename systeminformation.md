@@ -1,6 +1,6 @@
 # 24 Hour Support Wiki
 
-[Return to main wiki page](https://github.com/CommandMC/24HS-Wiki/blob/main/README.md)
+[Return to main wiki page](https://github.com/CommandMC/24HS-Wiki/blob/main/index.md)
 
 ## What am I providing?
 
@@ -43,8 +43,8 @@ The file you will provide contains no personal information about you. It will pr
 
 1. Download the [24HS-Automator](https://github.com/CommandMC/24HS-Automator/releases/latest)
 2. Run it and accept the UAC prompt.
-3. Select the 6th option (`(6) Generate system info`) by pressing "6" on your keyboard.
-4. Either press Ctrl + V or manually attach the file (it's on your Desktop and will be named "DanielIsCool.txt") **in the channel you were asked for the file** using the ⊕ button to the left of the message input box
+3. Select the 6th option (<samp>(6) Generate system info</samp>) by pressing <kbd>6</kbd> on your keyboard.
+4. Either press <kbd>Ctrl</kbd> + <kbd>V</kbd> **in the channel you were asked for the file** or manually attach the file (it's on your Desktop and will be named "DanielIsCool.txt") using the ⊕ button to the left of the message input box
 
 ---
 ### Option 2: The manual way
@@ -80,6 +80,5 @@ The file you will provide contains no personal information about you. It will pr
 8. Send the file in channel. Or if you are posting this on the subreddit [paste it in pastebin then send us the link](https://pastebin.com/). ANSWER THE QUESTIONS BELOW ALONG WITH SENDING THE FILE! READ THIS PART YES!! ***READ THIS WITH YOUR EYES!!!!*** THERE ARE **QUESTIONS BELOW THIS PHOTO**!!!! READ THEM AND ANSWER THEM, THEN SEND US THE ANSWERS!!!
 
 ![](https://i.imgur.com/Xl4WnCc.png)
-
 
 You do not have to add the answers to the file, just send them in the channel that WE ASKED FOR THEM! DO NOT SEND THEM THROUGH DMS! SEND THE ANSWERS AND THE FILE IN THE SAME CHANNEL WHERE WE LINKED YOU THIS WIKI!!!
