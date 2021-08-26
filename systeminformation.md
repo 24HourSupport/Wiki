@@ -6,6 +6,8 @@
 
 The file you will provide contains no personal information about you. It will provide the local IP address (which is not something anyone can use against you), driver version information of devices, name of USB devices and hardware connected, and name of user account logged in. As long as you don't do something like naming your user account as your house address or full name, nothing personal is included here.
 
+![](https://i.imgur.com/7C51YAt.png)
+
 ## How to provide useful information about your system
 
 1. Did you do any overclocks anywhere (other than enabling XMP in bios)?
@@ -36,6 +38,8 @@ The file you will provide contains no personal information about you. It will pr
 ### You do not have to add the answers to the file, just send them in the channel that WE ASKED FOR THEM! DO NOT SEND THEM THROUGH DMS! SEND THE ANSWERS AND THE FILE IN THE SAME CHANNEL WHERE WE LINKED YOU THIS WIKI!!!
 
 ---
+
+![](https://i.imgur.com/7C51YAt.png)
 
 ## Providing a System Information report
 
