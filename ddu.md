@@ -36,7 +36,7 @@ If you're using a Microsoft Account, you will not be able to log in once you're 
 2. Type in `powershell -Command Get-LocalUser -Name %USERNAME% ^| Select-Object PrincipalSource`
 3. You will see either "Local" or "MicrosoftAccount".
 
-If you see "Local" here, you can [skip to the next section](). Otherwise, follow these steps:
+If you see "Local" here, you can [skip to the next section](https://github.com/CommandMC/24HS-Wiki/blob/main/ddu.md#prerequesites). Otherwise, follow these steps:
 
 1. Press the Windows key + R to open the "Run" dialog
 2. Type in "cmd" and press <kbd>Ctrl + Shift + Enter</kbd>
@@ -80,7 +80,7 @@ If your laptop only has a CPU but not a dedicated GPU, then you grab the driver 
 ### 3. Undo all overclocks/undervolts
 
 Even if you don't think it's causing the issue (since it worked for a long time), undo it!
-If you don't know what overclocking is, you can [skip to the next section]()
+If you don't know what overclocking is, you can [skip to the next section](https://github.com/CommandMC/24HS-Wiki/blob/main/ddu.md#4-temporarily-disable-windows-updates)
 
 ##### Common questions
 
