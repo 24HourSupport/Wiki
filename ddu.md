@@ -56,12 +56,12 @@ This section has its own Wiki entry [here](https://github.com/CommandMC/24HS-Wik
   <li>
 
 [//]: # (nvidiaGPU)
-[NVIDIA](https://us.download.nvidia.com/Windows/471.96/471.96-desktop-win10-win11-64bit-international-dch-whql.exe)
+[NVIDIA](https://us.download.nvidia.com/Windows/472.12/472.12-desktop-win10-win11-64bit-international-dch-whql.exe)
   </li>
   <li>
 
 [//]: # (amdGPU)
-[AMD](https://ftp.nluug.nl/pub/games/PC/guru3d/amd/2021/non-whql-radeon-software-adrenalin-2020-21.8.2-win10-64bit-aug25.exe)
+[AMD](https://ftp.nluug.nl/pub/games/PC/guru3d/amd/2021/radeon-software-adrenalin-2020-21.10.1-win10-win11-64bit-oct5.exe)
   </li>
   <li>
 
