@@ -74,7 +74,7 @@ This includes Snappydriver, iOBIT driver booster, CCleaner, DriversCloud, Driver
 #### Recommended alternatives
 
 Note: We are not responsible for any laws or regulations you break. **You** are responsible for verifying if using BitTorrent clients is legal. We are not lawyers.  
-Using any of these clients is not a substitute for using a [good VPN]().
+Using any of these clients is not a substitute for using a [good VPN](https://github.com/CommandMC/24HS-Wiki/blob/main/productstoavoid.md#any-and-all-free-vpns).
 
 Good alternatives include the following, all of which are open source, basically means you can look at the source code for a program. This means you can modify it to suit your purposes. 
 It also means you can verify what it does, make sure there isn't any unsecure/malicious code or backdoors, etc.
@@ -154,7 +154,7 @@ Provided you're using qBittorrent, be sure to [bind it to the VPN client you are
   Want the extensions from the Google extension store? Takes [a minute to install an extension](https://ungoogled-software.github.io/ungoogled-chromium-wiki/faq#can-i-install-extensions-or-themes-from-the-chrome-webstore)
   then another second to allow it to [auto update said extensions](https://ungoogled-software.github.io/ungoogled-chromium-wiki/faq#will-extensions-auto-update)
 * If using a Chromium browser is not a requirement, [Firefox](https://www.mozilla.org/en-US/firefox) is a solid choice. 
-* For VPN recommendations, see the [free VPN section]().
+* For VPN recommendations, see the [free VPN section](https://github.com/CommandMC/24HS-Wiki/blob/main/productstoavoid.md#any-and-all-free-vpns).
 
 ---
 ### Multiple AV software
