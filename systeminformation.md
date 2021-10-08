@@ -56,6 +56,9 @@ Note: These are **options**. You do either Option 1, or Option 2, **not** both.
 ---
 ### Option 2: The manual way
 
+<details>
+  <summary>Expand me</summary>
+
 1. Open your start menu at the bottom left.
 
 ![](https://i.imgur.com/dE2qWEY.png)
@@ -89,3 +92,5 @@ Note: These are **options**. You do either Option 1, or Option 2, **not** both.
 ![](https://i.imgur.com/Xl4WnCc.png)
 
 You do not have to add the answers to the file, just send them in the channel that WE ASKED FOR THEM! DO NOT SEND THEM THROUGH DMS! SEND THE ANSWERS AND THE FILE IN THE SAME CHANNEL WHERE WE LINKED YOU THIS WIKI!!!
+
+</details>
