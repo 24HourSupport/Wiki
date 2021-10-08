@@ -246,8 +246,9 @@ All these issues result in a very unstable situation that has no fix besides get
 #### Privacy concerns
 
 If you are staying on Windows 7 due to of privacy concerns, understand you **cannot have privacy without security**. What is the point of Microsoft not knowing what you do but everyone and their dog knows? 
-There are ways to mitigate the Windows 10 issues, you can use open source utilities like [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) that let you automatically disable all the data and analytics collection.
-That should ease your troubles, but if the conclusion does not make you feel better, Linux exists. Alternatives will be discussed later.
+
+If you want to use a privacy-respecting OS, use Linux instead (see below for recommendations).  
+Note: Modifying Windows to not send analytics data is **not supported**, if you modified Windows, our only advice will be to reinstall
 
 #### Performance concerns
 
