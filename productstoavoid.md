@@ -52,7 +52,7 @@ This includes Snappydriver, iOBIT driver booster, CCleaner, DriversCloud, Driver
   Microsoft themselves [state registry cleaners, such as CCleaner, only do harm](https://support.microsoft.com/en-us/help/2563254/microsoft-support-policy-for-the-use-of-registry-cleaning-utilities)
 * [CCleaner has been caught installing Avast without permission](https://www.techspot.com/news/77949-ccleaner-could-install-avast-anti-virus-without-permission.html)
 
-##### Recommended alternatives
+#### Recommended alternatives
 
 * Only "useful" feature of CCleaner would be the ability to clear cache of applications. While this can be done manually in all of them, if you want an automated tool use [BleachBit](https://www.bleachbit.org/)
   which is [completely open source](https://github.com/bleachbit/bleachbit).
