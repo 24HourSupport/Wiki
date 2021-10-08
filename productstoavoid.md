@@ -150,10 +150,10 @@ Provided you're using qBittorrent, be sure to [bind it to the VPN client you are
 
 #### Recommended alternatives
 
-* There is **no reason to use Brave/Opera/Vivaldi.** If you wish to use a Chromium browser that is open source, [Ungoogled chromium](https://github.com/Eloston/ungoogled-chromium) is for you.
+* There is **no reason to use Brave/Opera/Vivaldi.** If using a Chromium browser is not a requirement, [Firefox](https://www.mozilla.org/en-US/firefox) is a solid choice.
+* If you wish to use a Chromium browser that is open source, [Ungoogled chromium](https://github.com/Eloston/ungoogled-chromium) is for you.
   Want the extensions from the Google extension store? Takes [a minute to install an extension](https://ungoogled-software.github.io/ungoogled-chromium-wiki/faq#can-i-install-extensions-or-themes-from-the-chrome-webstore)
   then another second to allow it to [auto update said extensions](https://ungoogled-software.github.io/ungoogled-chromium-wiki/faq#will-extensions-auto-update)
-* If using a Chromium browser is not a requirement, [Firefox](https://www.mozilla.org/en-US/firefox) is a solid choice. 
 * For VPN recommendations, see the [free VPN section](https://github.com/CommandMC/24HS-Wiki/blob/main/productstoavoid.md#any-and-all-free-vpns).
 
 ---
