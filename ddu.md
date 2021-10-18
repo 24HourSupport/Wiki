@@ -56,7 +56,7 @@ This section has its own Wiki entry [here](https://github.com/CommandMC/24HS-Wik
   <li>
 
 [//]: # (nvidiaGPU)
-[NVIDIA](https://us.download.nvidia.com/Windows/472.12/472.12-desktop-win10-win11-64bit-international-dch-whql.exe)
+[NVIDIA](https://us.download.nvidia.com/Windows/496.13/496.13-desktop-win10-win11-64bit-international-dch-whql.exe)
   </li>
   <li>
 
