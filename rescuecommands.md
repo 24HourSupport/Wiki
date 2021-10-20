@@ -4,11 +4,10 @@
 
 ### If you can boot up your computer and have internet access
 
-1. Download the [24HS-Automator](https://github.com/CommandMC/24HS-Automator/releases/latest)
-2. Run it and accept the UAC prompt.
-3. Select the 1st option (<samp>(1) Check system files</samp>) by pressing <kbd>1</kbd> on your keyboard.
-4. Once the `sfc` and `dism` checks are done, ask the person helping you if you should also run a `chkdsk` scan. Press either Y (for yes) or N (for no)
-5. Your PC will restart. If you have selected a `chkdsk` scan, you will see a message on bootup. **Do not skip this check**
+1. Download the [24HS-Automator](https://github.com/CommandMC/24HS-Automator/releases/latest) and run it.
+2. Click the 1st button ("SFC / DISM / CHKDSK scans").
+3. Using the 3 buttons, run through the SFC and DISM scans. If you're instructed to also do a CHKDSK scan, click that respecive button too.
+4. Restart the PC (This should happen automatically if you're running a CHKDSK scan).
 
 ### If you can boot up your computer but have no internet access
 
