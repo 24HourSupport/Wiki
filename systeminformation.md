@@ -6,7 +6,17 @@
 
 The file you will provide contains no personal information about you. It will provide the local IP address (which is not something anyone can use against you), driver version information of devices, name of USB devices and hardware connected, and name of user account logged in. As long as you don't do something like naming your user account as your house address or full name, nothing personal is included here.
 
-![](https://i.imgur.com/7C51YAt.png)
+### Option 1: The automated way
+
+1. Download the [24HS-Automator](https://github.com/CommandMC/24HS-Automator/releases/latest) and run it.
+2. Click the 2nd button ("MSInfo32 Report (Sysinfo)") and answer the questions there. If you don't know the answer to a question, you can leave it blank.
+3. Either press <kbd>Ctrl</kbd> + <kbd>V</kbd> **in the channel you were asked for the file** or manually attach the file (it's on your Desktop and will be named "DanielIsCool.txt") using the ⊕ button to the left of the message input box
+
+---
+### Option 2: The manual way
+
+<details>
+  <summary>Expand me</summary>
 
 ## How to provide useful information about your system
 
@@ -39,25 +49,7 @@ The file you will provide contains no personal information about you. It will pr
 
 ---
 
-![](https://i.imgur.com/7C51YAt.png)
-
 ## Providing a System Information report
-
-[//]: # (This hurts to write)
-Note: These are **options**. You do either Option 1, or Option 2, **not** both.
-
-### Option 1: The automated way
-
-1. Download the [24HS-Automator](https://github.com/CommandMC/24HS-Automator/releases/latest)
-2. Run it and accept the UAC prompt.
-3. Select the 6th option (<samp>(6) Generate system info</samp>) by pressing <kbd>6</kbd> on your keyboard.
-4. Either press <kbd>Ctrl</kbd> + <kbd>V</kbd> **in the channel you were asked for the file** or manually attach the file (it's on your Desktop and will be named "DanielIsCool.txt") using the ⊕ button to the left of the message input box
-
----
-### Option 2: The manual way
-
-<details>
-  <summary>Expand me</summary>
 
 1. Open your start menu at the bottom left.
 
