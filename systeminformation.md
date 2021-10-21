@@ -13,7 +13,7 @@ NOTE: You only have to follow ONE option, NOT BOTH. If you follow option 1 you o
 1. Visit the [24HS-Automator](https://github.com/CommandMC/24HS-Automator/releases/latest) page.
 2. Under "Assets" you click the one that says "24HS-Automator.exe", you download this then run it.
 3. Click the 2nd button ("MSInfo32 Report (Sysinfo)") and answer the questions there. If you don't know the answer to a question, you can leave it blank.
-4. Either press <kbd>Ctrl</kbd> + <kbd>V</kbd> **in the channel you were asked for the file** or manually attach the file (it's on your Desktop and will be named "DanielIsCool.txt") using the ⊕ button to the left of the message input box
+4. Either press <kbd>Ctrl</kbd> + <kbd>V</kbd> **in the channel you were asked for the file** or manually attach the file (it's on your Desktop and will be named "DanielIsCool.txt") using the ![image](https://user-images.githubusercontent.com/44484725/138221745-992ccdde-957a-4de6-acbb-61c324b89583.png) button to the left of the message input box
 
 ---
 ### Option 2: The manual way
