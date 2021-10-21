@@ -128,7 +128,7 @@ Provided you're using qBittorrent, be sure to [bind it to the VPN client you are
 * Brave has [taken money on behalf of YouTubers without any consent or knowledge from the person involved.](https://web.archive.org/web/20181221180137/https://twitter.com/tomscott/status/1076160882873380870).
   The funds taken from people donating (which thought they were donating to a creator) never received the rightful person who should have received it.
 
-#### Opera / Opera GXA
+#### Opera / Opera GX
 
 * [They collect your name, IP-address, location, non-personal technical data (such as manufacturer, screen resolution, phone region if applicable)](https://www.opera.com/privacy).
   This data is associated with a unique ID that is used to distribute to third-parties, which may monitor traffic (including searches).
