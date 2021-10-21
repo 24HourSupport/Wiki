@@ -113,7 +113,7 @@ Provided you're using qBittorrent, be sure to [bind it to the VPN client you are
   In short it is very slow, but it is free and it is secure. It's close to impossible to censor the Tor Browser, it is a very good choice for those wanting to use a VPN just to browse a website or two that may be geolocked. A video on how onion routing works (what the Tor Browser does) can be found [here](https://www.youtube.com/watch?v=QRYzre4bf7I), a simplified video can be found [here](https://www.youtube.com/watch?v=wlP1JrfvUo0). [ Bittorrent over Tor isn't a good idea, use a VPN for that](https://blog.torproject.org/bittorrent-over-tor-isnt-good-idea)
 
 ---
-### Brave, Opera, Vivaldi
+### Brave, Opera / Opera GX, Vivaldi
 
 #### Brave
 
@@ -128,7 +128,7 @@ Provided you're using qBittorrent, be sure to [bind it to the VPN client you are
 * Brave has [taken money on behalf of YouTubers without any consent or knowledge from the person involved.](https://web.archive.org/web/20181221180137/https://twitter.com/tomscott/status/1076160882873380870).
   The funds taken from people donating (which thought they were donating to a creator) never received the rightful person who should have received it.
 
-#### Opera 
+#### Opera / Opera GXA
 
 * [They collect your name, IP-address, location, non-personal technical data (such as manufacturer, screen resolution, phone region if applicable)](https://www.opera.com/privacy).
   This data is associated with a unique ID that is used to distribute to third-parties, which may monitor traffic (including searches).
