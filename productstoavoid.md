@@ -133,7 +133,7 @@ Provided you're using qBittorrent, be sure to [bind it to the VPN client you are
 * [They collect your name, IP-address, location, non-personal technical data (such as manufacturer, screen resolution, phone region if applicable)](https://www.opera.com/privacy).
   This data is associated with a unique ID that is used to distribute to third-parties, which may monitor traffic (including searches).
 * [Sold to a Chinese consortium for $600 million](https://www.engadget.com/2016-07-18-opera-browser-sold-to-a-chinese-consortium-for-600-million.html)
-* Opera VPN suffers from the worst score possible [in almost all categories, they log everything you do](https://www.safetydetectives.com/best-vpns/#simple-vpn-comparison)
+* As for Opera VPN, there is no such thing as a free VPN, [see free VPN section.](https://github.com/CommandMC/24HS-Wiki/blob/main/productstoavoid.md#any-and-all-free-vpns)
 * [Opera offered predatory loans by deploying in their apps "bait and switch" tactics to lure borrowers and charge extortionate interest rates of up to 438%](https://www.androidcentral.com/opera-accused-offering-predatory-loan-apps-interest-rates-above-300)
 * Every single time you visit a site using Opera, [information is sent to to Opera on what you visited](https://spyware.neocities.org/images/opera_sitecheck.png)
 * [Your geolocation is sent to Opera](https://spyware.neocities.org/images/opera_geo.png). [It also makes requests to Cxense analytics, which is a company that assigns you a unique ID to help sell you ads](https://www.cxense.com/about-us).
