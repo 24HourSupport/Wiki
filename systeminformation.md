@@ -11,6 +11,8 @@ The file you will provide contains no personal information about you. It will pr
 This is an Automator made to make this as simple and easy as possible for you. It is [completely open source](https://github.com/24HourSupport/Automator) which means you can audit it yourself to make sure it is not malicious. You can also of course scan it with your antivirus of choice.
 
 
+# What do I do?
+
 1. Visit the [24HS-Automator](https://github.com/CommandMC/24HS-Automator/releases/latest) page.
 2. Under "Assets" you click the one that says "24HS-Automator.exe", you download this then run it.
 3. Click the 2nd button ("MSInfo32 Report (Sysinfo)") and answer the questions there. If you don't know the answer to a question, you can leave it blank.
