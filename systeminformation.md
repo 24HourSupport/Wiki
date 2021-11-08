@@ -1,6 +1,5 @@
 # 24 Hour Support Wiki
 
-[Return to main wiki page](https://github.com/CommandMC/24HS-Wiki/blob/main/index.md)
 
 ## What am I providing?
 
