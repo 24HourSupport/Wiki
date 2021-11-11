@@ -1,15 +1,26 @@
 # 24 Hour Support Wiki
 
-[Return to main wiki page](https://github.com/CommandMC/24HS-Wiki/blob/main/index.md)
+## Rescue commands
 
-### If you can boot up your computer and have internet access
+There are three different ways to run rescuecommands, choose the one that describes the situation you are in
 
-1. Download the [24HS-Automator](https://github.com/CommandMC/24HS-Automator/releases/latest) and run it.
+1. Download the [24HS-Automator](https://github.com/24HourSupport/Automator/releases/latest/download/24HS-Automator.exe). (You click the text in blue in this line, it's a hyperlink, which will download what you need for you)
 2. Click the 1st button ("SFC / DISM / CHKDSK scans").
-3. Using the 3 buttons, run through the SFC and DISM scans. If you're instructed to also do a CHKDSK scan, click that respecive button too.
-4. Restart the PC (This should happen automatically if you're running a CHKDSK scan).
+3. Using the 3 buttons, run through the SFC and DISM scans. If we told you to run CHKDSK, then press the CHKDSK button. If we did not tell you to run CHKDSK (or we did not mention it at all) then you just run SFC and DISM. 
+4. Restart/reboot the PC (This should happen automatically if you're running a CHKDSK scan).
+5. That is it, you don't have to do anything else, successfully finished. See if the issue you were having happens again, if it does then tell us this.
 
-### If you can boot up your computer but have no internet access
+
+Click the ➜ Arrow next to "I Cannot use the Automator" only if something stopped you from following the above steps. Always follow the above steps first, below ones are a backup.
+
+
+<details>
+<summary>I Cannot use the Automator</summary>
+<br>
+
+### I can use my computer and login to Windows, but cannot use the internet. Or I do not want to use the Automator.
+
+Follow this sub-section if you can login to Windows and use your computer, but either do not have internet access or do not want to use the Automator.
 
 1. Press the Windows key + R to open the "Run" dialog
 2. Type in "cmd" and press <kbd>Ctrl + Shift + Enter</kbd>
@@ -17,6 +28,8 @@
 4. Type in `dism /Online /Cleanup-Image /RestoreHealth` and wait for the command to finish
 5. If you are instructed to do a `chkdsk` scan, also type in `chkdsk C: /r /x` and press <kbd>Y</kbd> when asked if you want to check the volume the next time the system restarts
 6. Restart your computer. If you entered the `chkdsk` command previously, you will see a message on bootup. **Do not skip this check**
+7. That is it, you don't have to do anything else, successfully finished. See if the issue you were having happens again, if it does then tell us this.
+
 
 ### If you can't boot up your computer
 1. Obtain a Windows Installation Medium and boot from it
@@ -28,4 +41,6 @@
 7. Type in `sfc /scannow /offbootdir=C:\ /offwindir=C:\Windows` and wait for it to finish
 8. Type in `dism /Image:C: /Cleanup-Image /RestoreHealth` and wait for it to finish
 9. If you are instructed to do a `chkdsk` scan, also type in `chkdsk C: /r /x`.
-10. Restart by closing the CMD window and choosing the "Turn off your PC" option
+10. Restart/reboot by closing the CMD window and choosing the "Turn off your PC" option
+11. That is it, you don't have to do anything else, successfully finished. See if the issue you were having happens again, if it does then tell us this.
+</details>
