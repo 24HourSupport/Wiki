@@ -2,7 +2,7 @@
 
 ## Rescue commands
 
-There are three different ways to run rescuecommands, choose the one that describes the situation you are in
+There are three different ways to run rescuecommands, this first one is the one that works in 99.99% of scenarios, only follow what is afterwards if it doesn't work.
 
 1. Download the [24HS-Automator](https://github.com/24HourSupport/Automator/releases/latest/download/24HS-Automator.exe). (You click the text in blue in this line, it's a hyperlink, which will download what you need for you)
 2. Click the 1st button ("SFC / DISM / CHKDSK scans").
