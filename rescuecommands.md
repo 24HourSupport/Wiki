@@ -5,10 +5,11 @@
 There are three different ways to run rescuecommands, this first one is the one that works in 99.99% of scenarios, only follow what is afterwards if it doesn't work.
 
 1. Download the [24HS-Automator](https://github.com/24HourSupport/Automator/releases/latest/download/24HS-Automator.exe). (You click the text in blue in this line, it's a hyperlink, which will download what you need for you)
-2. Click the 1st button ("SFC / DISM / CHKDSK scans").
-3. Using the 3 buttons, run through the SFC and DISM scans. If we told you to run CHKDSK, then press the CHKDSK button. If we did not tell you to run CHKDSK (or we did not mention it at all) then you just run SFC and DISM. 
-4. Restart/reboot the PC (This should happen automatically if you're running a CHKDSK scan).
-5. That is it, you don't have to do anything else, successfully finished. See if the issue you were having happens again, if it does then tell us this.
+2. Once the Automator is downloaded from the above link, open it. 
+3. Click the 1st button ("SFC / DISM / CHKDSK scans").
+4. Using the 3 buttons, run through the SFC and DISM scans. If we told you to run CHKDSK, then press the CHKDSK button. If we did not tell you to run CHKDSK (or we did not mention it at all) then you just run SFC and DISM. 
+5. Restart/reboot the PC (This should happen automatically if you're running a CHKDSK scan).
+6. That is it, you don't have to do anything else, successfully finished. See if the issue you were having happens again, if it does then tell us this.
 
 
 Click the ➜ Arrow next to "I Cannot use the Automator" only if something stopped you from following the above steps. Always follow the above steps first, below ones are a backup.
