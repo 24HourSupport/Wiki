@@ -9,6 +9,12 @@ The file you will provide contains no personal information about you. It will pr
 
 This is an Automator made to make this as simple and easy as possible for you. It is [completely open source](https://github.com/24HourSupport/Automator) which means you can audit it yourself to make sure it is not malicious. You can also of course scan it with your antivirus of choice.
 
+## When running it I get a 'Windows protected your PC, Microsoft Defender SmartScreen prevented and unrecognized app' warning.
+
+This is nothing to be concerned about. If Windows Defender actually detected a virus then it wouldn't even show this, but instead block the download. This warning happens when an app developer refuses to pay Microsoft's [$600 a year license to make the warning go away. (You do not have to click this link to fix it)](https://docs.microsoft.com/en-us/windows-hardware/drivers/dashboard/get-a-code-signing-certificate)
+
+All you have to do is click 'More info', then 'Run anyway'. If you have doubts that this is a virus, then go ahead and scan it with your anti-virus of choice.
+
 
 # What do I do?
 
