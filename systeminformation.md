@@ -21,5 +21,5 @@ All you have to do is click 'More info', then 'Run anyway'. If you have doubts t
 1. Download the [24HS-Automator](https://github.com/24HourSupport/Automator/releases/latest/download/24HS-Automator.exe). (You click the text in blue in this line, it's a hyperlink, which will download what you need for you)
 2. Once the Automator is downloaded from the above link, open it. 
 3. Click the 2nd button ("MSInfo32 Report (Sysinfo)") and answer the questions there. If you don't know the answer to a question, you can leave it blank.
-4. Send the file **in the channel you were asked for it** by attaching the file (it's on your Desktop and will be named "DanielIsCool.txt") using the <img src="https://user-images.githubusercontent.com/44484725/138221745-992ccdde-957a-4de6-acbb-61c324b89583.png" height=30px /> button to the left of the message input box
+4. Send the file **in the channel you were asked for it** by attaching the file (it's on your Desktop and will be named "SysInfo.txt") using the <img src="https://user-images.githubusercontent.com/44484725/138221745-992ccdde-957a-4de6-acbb-61c324b89583.png" height=30px /> button to the left of the message input box
 
