@@ -8,6 +8,7 @@ There are three different ways to run rescuecommands, this first one is the one 
 2. Once the Automator is downloaded from the above link, open it. 
 3. Click the 1st button ("SFC / DISM / CHKDSK scans").
 4. Using the 3 buttons, run through the SFC and DISM scans. If we told you to run CHKDSK, then press the CHKDSK button. If we did not tell you to run CHKDSK (or we did not mention it at all) then you just run SFC and DISM. 
+DO NOT FUCKING ASK US IF YOU HAVE TO RUN CHKDSK. IF WE DID NOT MENTION CHKDSK THEN YOU DO NOT NEED TO RUN IT. SIMPLE AS THAT.
 5. You can run SFC, then DISM, then SFC again just to be safe. 
 6. Restart/reboot the PC (This should happen automatically if you're running a CHKDSK scan).
 7. That is it, you don't have to do anything else, successfully finished. See if the issue you were having happens again, if it does then tell us this.
