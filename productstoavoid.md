@@ -232,6 +232,65 @@ If the US government doesn't trust a specific software, neither should you.
   Fedora by default comes with the GNOME desktop environment, [a lot of other desktop environments (like KDE) are also available.](https://spins.fedoraproject.org/)
 
 ---
+### Manjaro
+
+* This is a vast topic to cover, the majority of it is covered here: https://manjarno.snorlax.sh/
+
+#### Security
+
+* SSL Certificates: Manjaro has let their certificates expire 5 Times.
+* Holding back packages for 2 weeks can also cause security issues.
+
+#### Stability
+
+* Arch is overall more stable than Manjaro and even though they hold back packages for 2 weeks it doesnt make it any more stable just means updates reach you later and ends up casing more issues
+
+##### The AUR
+* This is better Explained at https://manjarno.snorlax.sh/ but summed up AUR scripts are user made meaning you should look through them before running them and most of these scripts are written with the assumption that you aren’t running a system that’s effectively two weeks out of date. This causes [Partial Upgrades](https://wiki.archlinux.org/title/System_maintenance#Partial_upgrades_are_unsupported) At best, that program won’t install or work correctly and at worst can cause all kinds of issues on your system with no obvious way to fix it. And that they don't actually support the AUR, They just blame the users of pamac. They also provide insufficient warnings about the AUR and the potential risks, while providing a simplified interface for installing AUR packages via pamac.
+
+##### Rushing Asahi out the door
+In their attempt to get Asahi Linux out (and support Apple Silicon) as soon as possible, they ended [pulling the latest PKGBUILD without talking to the devs](https://web.archive.org/web/20221208084616/https://twitter.com/marcan42/status/1576414477272387584). This has resulted in them shipping potentially broken kernels to end users.
+
+Still though, that’s besides the main problem. It was [only about 3 days ago this video came out](https://www.youtube.com/watch?v=k0cnMUroMlQ), in which a DE is working for the first time. Not only is it still in a state far from prime-time, but compounded with the tweet above they didn’t even bother trying to speak with the devs of the project about its current state.
+
+#### Management
+
+##### Funding
+
+Manjaro has had a controversy with their treasurer. Phillip Muller (Manjaro team lead) had purchased a laptop for €2000, and the treasurer asked to clarify his purchase. [This ultimately led to the treasurer being removed](https://redd.it/hxp3zi). Isn’t the whole point of a treasurer to ensure fair and efficient use of donation funds?
+
+#### Poor QA
+
+##### DDoSing the AUR
+
+Manjaro’s AUR helper, pamac, shipped a version with a bug on 2020-04-26 that accidentally sent thousands of requests to the AUR per user. This rendered the AUR offline for all users across every Arch-based distro for a few hours.
+
+* https://www.reddit.com/r/archlinux/comments/mz3biz/is_the_aur_down_for_everyone/
+* https://gitlab.manjaro.org/applications/pamac/-/issues/1017
+
+##### and again...
+
+On 2021-10-14, Manjaro once again shipped a bad version of pamac, resulting in pamac being blocked again. This may have been the cause for the day’s earlier outage.
+
+* https://www.reddit.com/r/linux/comments/q85t8n/pamac_manjaros_package_manager_gui_has_been/
+
+* https://gitlab.manjaro.org/applications/pamac/-/issues/1135
+
+While these incidents were in no way intentional, it highlights the poor QA testing that Manjaro performs. This has happened on two separate occasions in less than two years.
+
+#### Miscellaneous
+
+[Their system update script used to run rm on the lockfile mid-transaction](https://gitlab.manjaro.org/packages/core/manjaro-system/blob/3b806753e245b7ec7e18bb674e916e28d751a429/manjaro-update-system.sh#L45). The lockfile is in place to prevent multiple instances of pacman from trying to alter the package database at the same time. Sometimes, when pacman is interrupted, a stale lockfile can remain. In this case, removing the lockfile is a common troubleshooting step. However, you should only do that when you are absolutely certain there are no other pacman instances running. Manjaro’s script used to do this silently without checking for other instances.
+
+#### Recommended alternatives
+
+* Arch [and it already has a installer](https://github.com/archlinux/archinstall)
+
+* [EndeavourOS](https://endeavouros.com/) seems to be what Manjaro is going for – just rightly done as far as I can tell. That said, using an Arch derivative is still a bit questionable in my view. The main excuse for doing so (lack of an automated installer) doesn’t apply anymore as Arch ships with archinstall. However, EndeavourOS has a GUI installer, which should be much more approachable, and offers many more configurations to choose from out of the box than archinstall.
+
+Once again though, I’d like to reiterate that Arch already ships with a reasonably friendly installer.
+
+---
 ### Windows 7
 
 #### Security
@@ -260,7 +319,6 @@ While some old hardware may just not be able to handle it, Windows 10 does bring
 * Windows 10 is the most logical choice for most users, guide on how to clean install can be found [here](https://github.com/CommandMC/24HS-Wiki/blob/main/installingwindows.md)
 * Fedora is likely the second choice for most if you do not have Nvidia hardware, you can run Windows applications on Fedora [following this guide](https://computingforgeeks.com/how-to-install-wine-on-fedora/), you can also check and see if your [games work on Linux](https://www.protondb.com/).
   The Fedora ISO [can be found here](https://spins.fedoraproject.org/kde/), instructions on how to install can be found below
-* Manjaro is a good choice for others, especially if they have Nvidia hardware since Fedora does not officially support Nvidia. You can run Windows applications on Manjaro [following this guide](https://linuxconfig.org/install-wine-on-manjaro), you can also check and see if your [games work on Linux](https://www.protondb.com/). The Manjaro ISO [can be found here](https://manjaro.org/downloads/official/kde/), instructions on how to install can be summed up as this:
 
 Download the ISO above, download and install [Etcher](https://www.balena.io/etcher/).
 Run Etcher, click "Flash from file" then select the ISO you downloaded. Then select target as the USB (**make sure it is empty, everything on it will be deleted**) and finally click flash.
