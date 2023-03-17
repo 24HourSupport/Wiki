@@ -21,7 +21,7 @@ The built in "clean install" functionality of the driver is NOT an alternative t
 
 ### Option 1: The automated way
 1. Download the [24HS-Automator](https://github.com/CommandMC/24HS-Automator/releases/latest)
-2. Run it and accept the UAC prompt.
+2. Run as admin and accept the UAC prompt.
 3. Select the 8th option (<samp>(8) Auto-DDU</samp>) by pressing <kbd>8</kbd> on your keyboard.
 4. Follow the instructions on-screen
 
