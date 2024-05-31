@@ -136,7 +136,7 @@ Provided you're using qBittorrent, be sure to [bind it to the VPN client you are
 * As for Opera VPN, there is no such thing as a free VPN, [see free VPN section.](https://github.com/CommandMC/24HS-Wiki/blob/main/productstoavoid.md#any-and-all-free-vpns)
 * [Opera offered predatory loans by deploying in their apps "bait and switch" tactics to lure borrowers and charge extortionate interest rates of up to 438%](https://www.androidcentral.com/opera-accused-offering-predatory-loan-apps-interest-rates-above-300)
 * Every single time you visit a site using Opera, [information is sent to to Opera on what you visited](https://spyware.neocities.org/images/opera_sitecheck.png)
-* [Your geolocation is sent to Opera](https://spyware.neocities.org/images/opera_geo.png). [It also makes requests to Cxense analytics, which is a company that assigns you a unique ID to help sell you ads](https://www.cxense.com/about-us).
+* [Your geolocation is sent to Opera](https://spyware.neocities.org/images/opera_geo.png). It also makes requests to Cxense analytics, [which is a company that assigns you a unique ID to help sell you ads](https://web.archive.org/web/20190430115920/https://www.cxense.com/about-us).
   Opera makes [millions off selling their users data](https://investor.opera.com/news-releases/news-release-details/opera-limited-announces-fourth-quarter-and-full-year-2019)
 * Opera is closed source with no way to audit the browser. They also have publicly stated [they do not intend to reveal their source code](https://web.archive.org/web/20131104092810/http://www.operasoftware.com/press/faq/).
 
